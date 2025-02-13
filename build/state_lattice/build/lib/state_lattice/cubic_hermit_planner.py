@@ -58,5 +58,3 @@ def hermite_with_constraints(start, end, yaw_start, yaw_end):
 
 
 
-
-

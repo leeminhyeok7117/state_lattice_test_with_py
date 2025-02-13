@@ -1,0 +1,47 @@
+running egg_info
+creating ../../build/state_lattice/state_lattice.egg-info
+writing ../../build/state_lattice/state_lattice.egg-info/PKG-INFO
+writing dependency_links to ../../build/state_lattice/state_lattice.egg-info/dependency_links.txt
+writing entry points to ../../build/state_lattice/state_lattice.egg-info/entry_points.txt
+writing requirements to ../../build/state_lattice/state_lattice.egg-info/requires.txt
+writing top-level names to ../../build/state_lattice/state_lattice.egg-info/top_level.txt
+writing manifest file '../../build/state_lattice/state_lattice.egg-info/SOURCES.txt'
+reading manifest file '../../build/state_lattice/state_lattice.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/state_lattice/state_lattice.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/lmh/state_lattice_test_with_py/build/state_lattice/build
+creating /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib
+creating /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+copying state_lattice/global_path.py -> /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+copying state_lattice/state_lattice_planner.py -> /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+copying state_lattice/__init__.py -> /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+copying state_lattice/cubic_hermit_planner.py -> /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+copying state_lattice/cartesian_frenet_conversion.py -> /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+copying state_lattice/lookup_table_generator.py -> /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+running install
+running install_lib
+creating /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+copying /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice/global_path.py -> /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+copying /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice/state_lattice_planner.py -> /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+copying /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice/__init__.py -> /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+copying /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice/cubic_hermit_planner.py -> /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+copying /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice/cartesian_frenet_conversion.py -> /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+copying /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice/lookup_table_generator.py -> /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+byte-compiling /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice/global_path.py to global_path.cpython-310.pyc
+byte-compiling /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice/state_lattice_planner.py to state_lattice_planner.cpython-310.pyc
+byte-compiling /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice/cubic_hermit_planner.py to cubic_hermit_planner.cpython-310.pyc
+byte-compiling /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice/cartesian_frenet_conversion.py to cartesian_frenet_conversion.cpython-310.pyc
+byte-compiling /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice/lookup_table_generator.py to lookup_table_generator.cpython-310.pyc
+running install_data
+creating /home/lmh/state_lattice_test_with_py/install/state_lattice/share/ament_index
+creating /home/lmh/state_lattice_test_with_py/install/state_lattice/share/ament_index/resource_index
+creating /home/lmh/state_lattice_test_with_py/install/state_lattice/share/ament_index/resource_index/packages
+copying resource/state_lattice -> /home/lmh/state_lattice_test_with_py/install/state_lattice/share/ament_index/resource_index/packages
+copying package.xml -> /home/lmh/state_lattice_test_with_py/install/state_lattice/share/state_lattice
+running install_egg_info
+Copying ../../build/state_lattice/state_lattice.egg-info to /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/lmh/state_lattice_test_with_py/build/state_lattice/install.log'

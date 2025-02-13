@@ -1,0 +1,49 @@
+[0.304s] Invoking command in '/home/lmh/state_lattice_test_with_py/src/state_lattice': PYTHONPATH=/home/lmh/state_lattice_test_with_py/build/state_lattice/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/state_lattice build --build-base /home/lmh/state_lattice_test_with_py/build/state_lattice/build install --record /home/lmh/state_lattice_test_with_py/build/state_lattice/install.log --single-version-externally-managed install_data
+[0.419s] running egg_info
+[0.419s] creating ../../build/state_lattice/state_lattice.egg-info
+[0.419s] writing ../../build/state_lattice/state_lattice.egg-info/PKG-INFO
+[0.419s] writing dependency_links to ../../build/state_lattice/state_lattice.egg-info/dependency_links.txt
+[0.419s] writing entry points to ../../build/state_lattice/state_lattice.egg-info/entry_points.txt
+[0.419s] writing requirements to ../../build/state_lattice/state_lattice.egg-info/requires.txt
+[0.419s] writing top-level names to ../../build/state_lattice/state_lattice.egg-info/top_level.txt
+[0.419s] writing manifest file '../../build/state_lattice/state_lattice.egg-info/SOURCES.txt'
+[0.420s] reading manifest file '../../build/state_lattice/state_lattice.egg-info/SOURCES.txt'
+[0.420s] adding license file 'LICENSE'
+[0.421s] writing manifest file '../../build/state_lattice/state_lattice.egg-info/SOURCES.txt'
+[0.421s] running build
+[0.421s] running build_py
+[0.421s] creating /home/lmh/state_lattice_test_with_py/build/state_lattice/build
+[0.421s] creating /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib
+[0.421s] creating /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+[0.421s] copying state_lattice/global_path.py -> /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+[0.421s] copying state_lattice/state_lattice_planner.py -> /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+[0.421s] copying state_lattice/__init__.py -> /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+[0.421s] copying state_lattice/cubic_hermit_planner.py -> /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+[0.421s] copying state_lattice/cartesian_frenet_conversion.py -> /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+[0.421s] copying state_lattice/lookup_table_generator.py -> /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice
+[0.421s] running install
+[0.421s] running install_lib
+[0.421s] creating /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+[0.421s] copying /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice/global_path.py -> /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+[0.421s] copying /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice/state_lattice_planner.py -> /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+[0.422s] copying /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice/__init__.py -> /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+[0.422s] copying /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice/cubic_hermit_planner.py -> /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+[0.422s] copying /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice/cartesian_frenet_conversion.py -> /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+[0.422s] copying /home/lmh/state_lattice_test_with_py/build/state_lattice/build/lib/state_lattice/lookup_table_generator.py -> /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice
+[0.422s] byte-compiling /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice/global_path.py to global_path.cpython-310.pyc
+[0.423s] byte-compiling /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice/state_lattice_planner.py to state_lattice_planner.cpython-310.pyc
+[0.424s] byte-compiling /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice/__init__.py to __init__.cpython-310.pyc
+[0.424s] byte-compiling /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice/cubic_hermit_planner.py to cubic_hermit_planner.cpython-310.pyc
+[0.424s] byte-compiling /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice/cartesian_frenet_conversion.py to cartesian_frenet_conversion.cpython-310.pyc
+[0.425s] byte-compiling /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice/lookup_table_generator.py to lookup_table_generator.cpython-310.pyc
+[0.425s] running install_data
+[0.425s] creating /home/lmh/state_lattice_test_with_py/install/state_lattice/share/ament_index
+[0.425s] creating /home/lmh/state_lattice_test_with_py/install/state_lattice/share/ament_index/resource_index
+[0.425s] creating /home/lmh/state_lattice_test_with_py/install/state_lattice/share/ament_index/resource_index/packages
+[0.425s] copying resource/state_lattice -> /home/lmh/state_lattice_test_with_py/install/state_lattice/share/ament_index/resource_index/packages
+[0.425s] copying package.xml -> /home/lmh/state_lattice_test_with_py/install/state_lattice/share/state_lattice
+[0.426s] running install_egg_info
+[0.427s] Copying ../../build/state_lattice/state_lattice.egg-info to /home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages/state_lattice-0.0.0-py3.10.egg-info
+[0.428s] running install_scripts
+[0.442s] writing list of installed files to '/home/lmh/state_lattice_test_with_py/build/state_lattice/install.log'
+[0.458s] Invoked command in '/home/lmh/state_lattice_test_with_py/src/state_lattice' returned '0': PYTHONPATH=/home/lmh/state_lattice_test_with_py/build/state_lattice/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lmh/state_lattice_test_with_py/install/state_lattice/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/state_lattice build --build-base /home/lmh/state_lattice_test_with_py/build/state_lattice/build install --record /home/lmh/state_lattice_test_with_py/build/state_lattice/install.log --single-version-externally-managed install_data
